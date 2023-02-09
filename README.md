@@ -2,4 +2,4 @@
 
 This is the source code for the Alan AI studio which you can use and save in the studio and use ALAN AI SDK to connect your application to respond to these commands.
 
-Alan AI website: (Alan AI)[https://alan.app/]
+Alan AI website: [Alan AI](https://alan.app/)
